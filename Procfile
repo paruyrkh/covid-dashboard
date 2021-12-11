@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material Dashboard.ipynb
+web: voila --port=$PORT --no-browser Dashboard.ipynb
