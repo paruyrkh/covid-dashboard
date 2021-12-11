@@ -5,4 +5,5 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - uk_covid19
+  - pip:
+    - uk_covid19
