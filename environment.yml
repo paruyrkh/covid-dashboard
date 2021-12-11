@@ -2,6 +2,7 @@ name: covid-dashboard-environment
 channels:
   - conda-forge
 dependencies:
+  - voila
   - numpy
   - matplotlib
   - pandas
